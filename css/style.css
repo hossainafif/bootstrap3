@@ -1,0 +1,13 @@
+.box {
+    min-height: 100px;
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.h_300 {
+    height: 300px;
+}
